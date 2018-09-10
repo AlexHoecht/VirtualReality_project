@@ -6,5 +6,12 @@ Project #1
 Roll-a-Ball
   
   Objectives:
-    Learn how to effectivly use the unity engine.
-    Port game to Oculus Rift
+    Learn how to effectivly use the Unity Engine.
+    
+Project #2
+--------------
+Crazy Maze
+  
+  Objectives:
+    Continue to enhance abilities with Unity Engine.
+    Port to Oculus rift
