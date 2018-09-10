@@ -16,5 +16,5 @@ Project #2
 Crazy Maze
   
   Objectives:
-    1) Continue to enhance abilities with Unity Engine.
-    2) Port to Oculus rift
+    1. Continue to enhance abilities with Unity Engine.
+    2. Port to Oculus rift
