@@ -18,3 +18,11 @@ Crazy Maze
   Objectives:
     1. Continue to enhance abilities with Unity Engine.
     2. Port to Oculus rift
+    
+Project #3
+------------
+Sleepy Shootout
+
+  Objectives:
+   1. Finish survival shooter tutorial
+   2. Add new levels to game
